@@ -28,8 +28,8 @@ Malware traffic analysis is a crucial skill for cybersecurity professionals. It 
 
 ## 6. Wireshark - Importing the Pcap File
 
-<img src="images/image 1.png" width=500> <img src="images/image 2.png" width=500> <img src="images/image 3.png" width=500> 
-<img src="images/image 4.png" width=500> <img src="images/image 5.png" width=500> <img src="images/image 6.png" width=500>
+<img src="images/image 1.png" height=250 width=500> <img src="images/image 2.png" height=250 width=500> <img src="images/image 3.png" height=250 width=500> 
+<img src="images/image 4.png" height=250 width=500> <img src="images/image 5.png" height=250 width=500> <img src="images/image 6.png" height=250 width=500>
 
 ## 6. Analyzing Malware Traffic
 
