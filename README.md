@@ -26,6 +26,10 @@ Malware traffic analysis is a crucial skill for cybersecurity professionals. It 
 1. **Install Wireshark**: Download and install Wireshark from [Wireshark's official website](https://www.wireshark.org/download.html).
 2. **Prepare PCAP Files**: Obtain PCAP files containing malware traffic for analysis. Websites like [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) provide sample PCAP files.
 
+## 6. Wireshark - Importing the Pcap File
+
+![importing pcap](images/image 1.png)
+
 ## 6. Analyzing Malware Traffic
 
 **Step 1: 💻 Victim Details**
